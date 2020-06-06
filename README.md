@@ -1,5 +1,5 @@
 <h1 align="center">
-    Next Level Week Starte  by Mayk Brito <img src="assets/rocketseat.svg">
+    Next Level Week Starte  by Mayk Brito
     </h1>
  
  
@@ -28,10 +28,6 @@ _________
 ### ✨ Sobre o projeto:
 
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
-
-<p align="center">
-<img width="600" src="assets/1.png">
-</p>
 
 _________
 
