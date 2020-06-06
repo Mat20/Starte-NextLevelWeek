@@ -1,13 +1,8 @@
-![](assets/nlw.jpg)
-
 <h1 align="center">
     Next Level Week Starte  by Mayk Brito <img src="assets/rocketseat.svg">
     </h1>
-  
-  <p align="center">
-  <img width="250" src="assets/logo-nlw.svg">
-</p>
-
+ 
+ 
 _________
 
 ### 🤔 Mas o que é isso? 
@@ -31,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 _________
 
 ### ✨ Sobre o projeto:
-<img src="assets/logo.svg">
 
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
 
@@ -63,9 +57,6 @@ $ npm ou yarn
 $ npm start
 ```
 
-## Participants
-
-| [<img src="https://avatars2.githubusercontent.com/u/20867486?s=460&u=b635b04c8d1b062365e7080de1ce1f09d84f18fc&v=4" width="80px;"/>](https://github.com/Mat20)
 _________
 
 Agradecimentos [Rocketseat](https://rocketseat.com.br/)
